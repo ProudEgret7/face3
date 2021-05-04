@@ -1,0 +1,28 @@
+body{
+background:linear-gradient(to left,red,grey);
+    color:black;
+    font-size:30px;
+    font-family: 'Redressed', cursive;
+}
+.heading{
+    width:80%;
+    background:linear-gradient(to left,white,grey);
+    color:black;
+    font-size:50px;
+    text-decoration: underline;
+    font-family: 'Hanalei Fill', cursive;
+}
+.heading:hover{
+    color:white;
+    background:linear-gradient(to left,black,grey);
+    text-decoration: underline;
+    font-family: 'Hanalei Fill', cursive;
+}
+.btn_none{
+    width:275px;
+    height:275px;
+    border-radius:50%;
+    border:50px white ridge;
+    font-size:30px;
+    background-color:black
+}
